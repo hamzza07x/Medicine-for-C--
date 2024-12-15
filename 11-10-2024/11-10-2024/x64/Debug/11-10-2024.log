@@ -1,0 +1,2 @@
+﻿2.obj : error LNK2005: main already defined in 1.obj
+D:\1\medicine\11-10-2024\x64\Debug\11-10-2024.exe : fatal error LNK1169: one or more multiply defined symbols found
